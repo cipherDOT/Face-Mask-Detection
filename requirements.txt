@@ -1,0 +1,7 @@
+libraries and modules : tensorflow, numpy, keras, pillow, opencv
+
+pip install tensorflow
+pip install numpy
+pip install keras(optional since it comes with tensorflow)
+pip install tensorflow
+pip install opencv-python
