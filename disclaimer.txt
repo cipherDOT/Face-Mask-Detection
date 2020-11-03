@@ -1,0 +1,4 @@
+I used my face to train the teachable machine model in https://teachablemachine.withgoogle.com/train
+
+I recommend using your own machine learning model and downloading it to get better and accurate results...
+on how teachable machine works and how to use it ( a video on the coding train by Daniel Shiffman ) ---> https://www.youtube.com/watch?v=kwcillcWOg0&t=1071s
