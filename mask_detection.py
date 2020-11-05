@@ -46,7 +46,7 @@ while True:
     my_image = cv2.putText(frame, text, (10, 30),
                            cv2.FONT_HERSHEY_SIMPLEX, 1, (0, 0, 0), 2)
 
-    cv2.imshow('frame', frame)
+    cv2.imshow('mask detection', frame)
 
     if cv2.waitKey(1) & 0xFF == ord('q'):
         break
